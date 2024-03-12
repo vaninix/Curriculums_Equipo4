@@ -1,0 +1,21 @@
+
+     header, footer {
+	padding: 1 em;
+	color: white;
+	background-color: midnightblue ;
+	clear: left;
+	text-aling: center; }
+body{
+    font-family: fuente;
+ } 
+
+ nav > ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+      @font-face{
+   font-family: "fuente";
+   src:url(LTSaeada-Bold.otf);
+ }
